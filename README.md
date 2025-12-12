@@ -8,4 +8,5 @@
 - Jennifer
 - Yassen
 - Jan
--Arman
+- Arman
+- Amine
